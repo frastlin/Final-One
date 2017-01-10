@@ -1,0 +1,2 @@
+This game was developed by Brandon Biggs (Frastlin) and is open for anyone to read and change the files. If you distribute this game, please keep this document and the readme document with the distribution. I do not own some of the packages, in particular py2exe and there are some rules that need to be followed with py2exe. See the readme for those rules.
+Send Frastlin a message on the audio games forums if you have any comments or questions.
